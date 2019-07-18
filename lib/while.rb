@@ -5,5 +5,6 @@ def using_while
 	puts phrase
 	counter +=
 	end
+	end
 
 
