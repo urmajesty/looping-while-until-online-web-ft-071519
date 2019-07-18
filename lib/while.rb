@@ -5,6 +5,6 @@ def using_while
 	puts phrase
 	levitation_force +=
 	end
-	end
+	
 
 
